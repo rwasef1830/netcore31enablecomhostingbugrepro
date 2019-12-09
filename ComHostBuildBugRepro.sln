@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComHostBuildBugRepro", "ComHostBuildBugRepro\ComHostBuildBugRepro.csproj", "{A9E52634-FB5A-4CFC-87DD-D20DFC243F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E52634-FB5A-4CFC-87DD-D20DFC243F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E52634-FB5A-4CFC-87DD-D20DFC243F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E52634-FB5A-4CFC-87DD-D20DFC243F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E52634-FB5A-4CFC-87DD-D20DFC243F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA9BC3E-81FA-4DFD-98DB-D20C683EFB09}
+	EndGlobalSection
+EndGlobal
